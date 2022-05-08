@@ -1,0 +1,1 @@
+﻿global using Unicesumar.Exercicios.Exercicios;
