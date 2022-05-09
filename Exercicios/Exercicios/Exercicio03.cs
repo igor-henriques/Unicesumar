@@ -1,6 +1,7 @@
 ﻿namespace Unicesumar.Exercicios.Exercicios;
 
 /// <summary>
+/// https://github.com/igor-henriques/Unicesumar/blob/master/Exercicios/Exercicios/Exercicio03.cs
 /// Imagine então que você trabalha na área de desenvolvimento de software do seu estado, e você foi 
 /// designado para registrar os dados de aplicação das vacinas. Nesta aplicação a pessoa responsável
 /// precisará pegar do paciente as informações como nome, cpf, nome da vacina aplicada, número do lote 
